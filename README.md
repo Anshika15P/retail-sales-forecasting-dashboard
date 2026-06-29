@@ -174,11 +174,11 @@ Captures weekly sales cycles and recurring business patterns.
 
 Forecasting performance is evaluated using:
 
-Mean Absolute Error (MAE)
+* Mean Absolute Error (MAE)
 
-Root Mean Squared Error (RMSE)
+* Root Mean Squared Error (RMSE)
 
-Mean Absolute Percentage Error (MAPE)
+* Mean Absolute Percentage Error (MAPE)
 
 These metrics enable objective comparison between forecasting models.
 
