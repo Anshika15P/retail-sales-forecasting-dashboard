@@ -41,8 +41,9 @@ https://github.com/Anshika15P/retail-sales-forecasting-dashboard
 
 ---
 
-# Dashboard Architecture
+## Dashboard Architecture
 
+```text
 Retail Sales Dataset
         │
         ▼
@@ -78,7 +79,7 @@ Future Sales Prediction
         │
         ▼
 Interactive Streamlit Dashboard
-
+```
 ---
 
 # Technology Stack
