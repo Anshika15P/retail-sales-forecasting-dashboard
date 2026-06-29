@@ -43,37 +43,41 @@ https://github.com/Anshika15P/retail-sales-forecasting-dashboard
 
 # Dashboard Architecture
 
-Historical Retail Data
-│
-▼
+Retail Sales Dataset
+        │
+        ▼
 Data Loading
-│
-▼
-Data Cleaning & Aggregation
-│
-▼
+        │
+        ▼
+Data Cleaning & Preprocessing
+        │
+        ▼
 Exploratory Data Analysis
-│
-▼
-Interactive Visualizations
-│
-▼
+        │
+        ▼
+Business Insights & Visualizations
+        │
+        ▼
 Time Series Preparation
-│
-▼
+        │
+        ▼
+Train-Test Split
+        │
+        ▼
 Forecasting Models
-├── Baseline
-├── ARIMA
-└── SARIMA
-│
-▼
-Performance Evaluation
-│
-▼
-Future Sales Forecast
-│
-▼
-Business Insights Dashboard
+   ├── Baseline
+   ├── ARIMA
+   └── SARIMA
+        │
+        ▼
+Model Evaluation
+(MAE • RMSE • MAPE)
+        │
+        ▼
+Future Sales Prediction
+        │
+        ▼
+Interactive Streamlit Dashboard
 
 ---
 
